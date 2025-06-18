@@ -7,7 +7,7 @@ nltk.download('vader_lexicon')
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 # Your API Key directly hardcoded
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "enter your API key here"
 
 # Initialize Sentiment Analyzer
 sentiment_analyzer = SentimentIntensityAnalyzer()
